@@ -7,7 +7,8 @@ R | plyr | stringr | e1071
 
 ---
 This is an implementation of a Sentiment Analyzer using R.
-For an complete overview, checkout this blog post.
+For an complete overview, checkout this [blog
+post](http://www.ihub.co.ke/blog/2015/03/sentiment-analysis-with-r/).
 
 ### License
 
